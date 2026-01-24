@@ -73,7 +73,7 @@ A Computer Science undergraduate specializing in Artificial Intelligence
 </p>
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSingh100&theme=default)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSingh100&layout=compact)
 
