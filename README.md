@@ -19,7 +19,7 @@ A Computer Science undergraduate specializing in Artificial Intelligence
 - 🧠 Strong foundation in **DSA and Computer Science fundamentals**
 - 📝 Experience working on **research-oriented and production-level ML projects**
 
-- 🌐 Portfolio: **
+- 🌐 Portfolio: *(add your portfolio link here once deployed)*
 - 📫 Reach me at:  
   <a href="mailto:srishtis1013@gmail.com">srishtis1013@gmail.com</a>
 
@@ -72,15 +72,12 @@ A Computer Science undergraduate specializing in Artificial Intelligence
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
-## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSingh100&layout=compact&theme=default)
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSingh100&theme=default)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSingh100&layout=compact)
 
 <p align="left">
-  📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSingh100&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSingh100&show_icons=true&theme=default)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
