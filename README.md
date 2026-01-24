@@ -78,12 +78,15 @@ A Computer Science undergraduate specializing in Artificial Intelligence
 
 
 <p align="left">
+  📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiSingh100&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrishtiSingh100&show_icons=true&theme=default)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
 ## 📬 Reach Me
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/SrishtiSingh100">
     <img src="https://img.icons8.com/ios-glyphs/40/github.png"/>
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
