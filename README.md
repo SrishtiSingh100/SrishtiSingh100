@@ -73,7 +73,7 @@ A Computer Science undergraduate specializing in Artificial Intelligence
 </p>
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSingh100&layout=compact&theme=default)
 
 
 
