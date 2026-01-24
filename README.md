@@ -1,127 +1,92 @@
-<!-- Gradient Header -->
-<h1 align="center" style="color:#7F5AF0;">
-  Hi 👋, I'm <span style="color:#22D3EE;">Srishti Singh</span>
-</h1>
+<div align="center">
+  <img width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
+
+<h1 align="center">Hi 👋, I'm Srishti Singh</h1>
 
 <h3 align="center">
-  <span style="color:#94A3B8;">Machine Learning • NLP • GenAI • Real-World AI Systems</span>
+A Computer Science undergraduate specializing in Artificial Intelligence
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=ML+%26+AI+for+Scientific+Data;NLP+%7C+GenAI+%7C+MLOps;Learning+by+Building+%26+Collaborating" />
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:22D3EE&height=90&section=header" />
+## 🙋‍♀️ About Me
+- 🎓 Third-year undergraduate at **Indira Gandhi Delhi Technical University for Women**
+- 🤖 Specialization in **Artificial Intelligence**
+- 🔬 Interested in **AI, ML, DL, NLP, GenAI, MLOps, and Systems**
+- 🧠 Strong foundation in **DSA and Computer Science fundamentals**
+- 📝 Experience working on **research-oriented and production-level ML projects**
+
+- 🌐 Portfolio: *(add your portfolio link here once deployed)*
+- 📫 Reach me at:  
+  <a href="mailto:srishtis1013@gmail.com">srishtis1013@gmail.com</a>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
----
+## 💻 Technical Skills
 
-### 🌱 About Me
+### 🔹 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-I’m a Computer Science undergraduate deeply interested in **Machine Learning, NLP, and Generative AI**, especially where they intersect with **scientific and real-world data**.
+### 🔹 AI / ML / Data
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-I enjoy going beyond surface-level implementations — understanding model behavior, system design choices, and trade-offs. My learning is driven by **curiosity, consistency, and hands-on work**, shaped through projects, a research-oriented GenAI internship, and strong theoretical coursework.
+### 🔹 MLOps / DevOps / Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-I value **collaboration, clean engineering, and reproducibility**, and I’m excited by environments where AI supports large-scale research and discovery.
+### 🔹 Web & Databases
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%230074D9.svg?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-### 🔍 Areas of Interest
-
-- 🧠 Machine Learning for structured & unstructured data  
-- 🧾 NLP & Retrieval-Augmented Generation (RAG)  
-- ✨ Generative AI & LLM pipelines  
-- ⚙️ MLOps, experiment tracking & reproducibility  
-- 👁️ Computer Vision & real-time systems  
-- 🧩 Data Structures, Algorithms & systems thinking  
-
----
-
-### 🧠 Experience Snapshot
-
-🧪 **GenAI Research Internship**  
-Worked on a collaborative, research-focused GenAI project involving system design, experimentation, technical documentation, and presentation.
-
-🛠️ **Hands-on ML Systems**  
-- ML pipelines with **MLflow & DVC** for tracking and versioning  
-- **RAG-based GenAI systems** using LLMs and vector databases  
-- **Real-time gesture detection** using computer vision  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,sql&theme=dark" />
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
-#### 🤖 ML / AI
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-7F5AF0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-22D3EE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GenAI-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-0EA5E9?style=for-the-badge"/>
+## 🏆 Achievements
+- ⭐ Solved **300+ coding problems** across multiple platforms
+- ⭐ **5★ on HackerRank** in Python and C++
+- 🎓 **Grace Hopper Celebration (GHC) Scholar**
+- 🌸 **SheFi Scholar**
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
-#### 🌐 Web & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" />
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
 
-#### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
-</p>
-
-#### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux&theme=dark" />
-</p>
-
-#### 🖥️ Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple"/>
-  <img src="https://img.shields.io/badge/Windows-1E40AF?style=for-the-badge&logo=windows"/>
-</p>
-
----
-
-### 📚 Academic Foundation
-
-Core coursework that shapes my systems-first ML mindset:
-- Optimization Techniques & Decision Making  
-- Database Management Systems  
-- Operating Systems  
-- Computer Networks  
-- Discrete Mathematics  
-
----
-
-### 🌍 What I’m Looking For
-
-- ML / NLP / GenAI work applied to **scientific or large-scale data**
-- Research-driven, collaborative teams  
-- Environments that value **clarity, rigor, and impact**
-
----
-
-### 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 📬 Reach Me
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.icons8.com/ios-glyphs/40/github.png"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.icons8.com/ios-glyphs/40/linkedin.png"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7F5AF0&height=90&section=footer" />
-</p>
-
-<p align="center">
-  <i style="color:#94A3B8;">Still learning. Still building. Still curious.</i>
+  <a href="mailto:srishtis1013@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/40/email.png"/>
+  </a>
 </p>
