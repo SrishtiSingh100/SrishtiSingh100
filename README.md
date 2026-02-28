@@ -19,7 +19,7 @@ A Computer Science undergraduate specializing in Artificial Intelligence
 - 🧠 Strong foundation in **DSA and Computer Science fundamentals**
 - 📝 Experience working on **research-oriented and production-level ML projects**
 
-- 🌐 Portfolio: *(add your portfolio link here once deployed)*
+ 
 - 📫 Reach me at:  
   <a href="mailto:srishtis1013@gmail.com">srishtis1013@gmail.com</a>
 
