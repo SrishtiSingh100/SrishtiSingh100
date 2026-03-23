@@ -24,7 +24,7 @@
 
 I'm a **third-year Computer Science undergraduate** specializing in **Artificial Intelligence** at Indira Gandhi Delhi Technical University for Women, Delhi.
 
-I have a deep passion for building systems that create **real-world impact** — from production-ready ML pipelines to intelligent conversational AI. I thrive at the intersection of research and engineering.
+I have a deep passion for building systems that create **real-world impact** — from production-ready ML pipelines to intelligent conversational AI. 
 
 <br/>
 
@@ -226,9 +226,10 @@ Real-time gesture recognition using **MediaPipe** & **TensorFlow Lite**.
 
 <br/>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+something+impactful+together+🚀" alt="footer typing" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6,11,20&height=100&section=footer"/>
+</p>
+
+<p align="center">Thanks for visiting my profile! ⭐ Let's build something impactful together 🚀</p>
