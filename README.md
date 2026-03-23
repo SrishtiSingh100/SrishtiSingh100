@@ -200,7 +200,7 @@ Real-time gesture recognition using **MediaPipe** & **TensorFlow Lite**.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/srishtisingh01/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -208,7 +208,7 @@ Real-time gesture recognition using **MediaPipe** & **TensorFlow Lite**.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD">
+<a href="https://discord.com/users/_srishti_singh_">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 &nbsp;
