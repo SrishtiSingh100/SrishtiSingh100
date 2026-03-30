@@ -184,10 +184,6 @@ Real-time gesture recognition using **MediaPipe** & **TensorFlow Lite**.
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSingh100&layout=donut&theme=tokyonight&border_color=a78bfa&title_color=a78bfa&langs_count=8" />
-
-<br/><br/>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SrishtiSingh100&theme=tokyo-night&border_color=a78bfa&color=a78bfa&line=a78bfa&point=ffffff&area=true" />
 
 </div>
